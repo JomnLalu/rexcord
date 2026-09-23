@@ -2,10 +2,9 @@
 
 Template repo for **The RexCord Initiative**, a free Discord bot workshop for
 Rex Mundi students, taught by alumni as a Bina Nusantara University
-community service project (Teach For Indonesia).
+community service project.
 
-Full schedule, sign-up and parent info: **[[ WORKSHOP HUB URL ]]**
-<!-- PUT HERE: rexcord.jomontolalu.com -->
+Full schedule, sign-up and parent info: **(HERE)[https://rexcord.jomontolalu.com/]**
 
 **In the workshop?** Click **Use this template → Open in a codespace** above,
 then follow Part A below. Everything runs in the browser — nothing to install.
